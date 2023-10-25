@@ -1,6 +1,6 @@
 # Bike Rental Web App
 
-This project is a web application similar to Lime, Bolt, etc., but specifically designed for bike rentals. The web app features a map that displays all the available bikes at the moment. Users can make bike reservations through a form system, where they select the desired bike pickup location and provide their personal details.
+This project is a web application similar to Lime, Bolt, etc., but specifically designed for bike rentals for Madeira (where analogic application didn't exist at moment of developing of application). The web app features a map that displays all the available bikes at the moment. Users can make bike reservations through a form system, where they select the desired bike pickup location and provide their personal details.
 
 ## Features
 
@@ -10,7 +10,7 @@ This project is a web application similar to Lime, Bolt, etc., but specifically 
 
 ## Technologies Used
 
-- Frontend: React.js, HTML5, CSS, SASS
+- Frontend: Javascript, HTML5, CSS, SASS
 - Backend: SQL for database management, Laravel for communication between the database and frontend
 
 ## Getting Started
