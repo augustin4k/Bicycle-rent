@@ -1,4 +1,4 @@
-# Bike Rental Web App
+# Bicycle Rental Web App
 
 This project is a web application similar to Lime, Bolt, etc., but specifically designed for bike rentals for Madeira (where analogic application didn't exist at moment of developing of application). The web app features a map that displays all the available bikes at the moment. Users can make bike reservations through a form system, where they select the desired bike pickup location and provide their personal details.
 
