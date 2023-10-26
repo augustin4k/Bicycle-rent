@@ -11,7 +11,7 @@ This project is a web application similar to Lime, Bolt, etc., but specifically 
 ## Technologies Used
 
 - Frontend: Javascript, HTML5, CSS, SASS
-- Backend: Laravel for model creation and communication between the database and frontend
+- Backend: Laravel for creating of models and communication between the database and frontend
 
 ## Getting Started
 
